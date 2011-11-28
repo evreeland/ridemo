@@ -29,7 +29,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
-gem 'win32-open3'
 
 group :test do
   # Pretty printed test output
